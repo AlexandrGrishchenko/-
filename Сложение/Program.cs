@@ -11,6 +11,6 @@ string s2 = Console.ReadLine();
 int b = Convert.ToInt32(s2);
 
 int c = a + b;
-Console.WriteLine("Сумма данных чисел:");
-Console.WriteLine(c);
-Console.ReadLine();
+Console.Write("Сумма данных чисел: ");
+Console.Write(c);
+
