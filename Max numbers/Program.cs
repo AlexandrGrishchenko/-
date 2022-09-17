@@ -1,4 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Нахождение максимального числа
+
 Console.WriteLine("Введите числа");
 string s = Console.ReadLine();
 int a = Convert.ToInt32(s);
